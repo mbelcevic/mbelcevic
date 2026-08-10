@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👨‍💻 Hi, I'm Miloš*. 
+### Technical Product Expert | Published Author, Maker & Pracademic
 
-<!--
-**mbelcevic/mbelcevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of product management, tech strategy, and operational research (OR). I have over a decade of product experience, and for the last 5 years, I've served in various senior product roles (e.g. Senior PM, Staff PM, Head of Product, and Senior Consultant).
 
-Here are some ideas to get you started:
+I'm super curious and have a diverse educational background with 2 master's degrees: one in marketing and the other in engineering management; also doing a PhD in management science/operations research with a focus on product management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I work as a Senior Product Manager for an international marketing technology startup, and senior product consultant at Toptal, a #1 most reliable professional services company in the US, with a less than 3% acceptance rate.
+
+A dream work for me: platform or data-intensive products where I can combine my different skills and interests, aligning overarching business models and product strategy with the underlying mechanics — intimately understanding and balancing objective functions, systemic constraints, and algorithmic trade-offs.
+
+If you'd like to collaborate or chat, feel free to ping my agent at ai@mbelcevic.me, connect on [LinkedIn](https://www.linkedin.com/in/mbelcevic/) or check out my website at [mbelcevic.me](https://mbelcevic.me). 
+
+#### *That's [mi'loʃ] ("MEE-losh")
