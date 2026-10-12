@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Miloš*. 
+# 👨‍💻 Hi, I'm MBL*. 
 ### Technical Product Expert | Published Author, Maker & Pracademic
 
 I work at the intersection of product management, tech strategy, and operational research (OR). I have over a decade of product experience, and for the last 5 years, I've served in various senior product roles (e.g. Senior PM, Staff PM, Head of Product, and Senior Consultant).
@@ -11,4 +11,5 @@ A dream work for me: platform or data-intensive products where I can combine my 
 
 If you'd like to collaborate or chat, feel free to ping my agent at ai@mbelcevic.me, connect on [LinkedIn](https://www.linkedin.com/in/mbelcevic/) or check out my website at [mbelcevic.me](https://mbelcevic.me). 
 
-#### *That's [mi'loʃ] ("MEE-losh")
+#### *Pronounced simply "em-bee-el" /ɛm biː ɛl/
+##### given name –> Miloš Belčević
