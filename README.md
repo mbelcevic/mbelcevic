@@ -12,5 +12,5 @@ A dream work for me: platform or data-intensive products where I can combine my 
 If you'd like to collaborate or chat, feel free to ping my agent at ai@mbelcevic.me, connect on [LinkedIn](https://www.linkedin.com/in/mbelcevic/) or check out my website at [mbelcevic.me](https://mbelcevic.me). 
 
 #### *Miloš, that's [mi'loʃ] ("MEE-losh")
-#### *MBL is pronounced simply "em-bee-el" /ɛm biː ɛl/
-##### my full given name –> Miloš Belčević
+#### MBL is pronounced simply "em-bee-el" /ɛm biː ɛl/
+##### My full given name –> Miloš Belčević
